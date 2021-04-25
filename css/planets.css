@@ -189,8 +189,8 @@
 }
 
 .uranus .planet {
-	width: 143px;
-	height: 140px;
+	width: 106px;
+	height: 104px;
 	background: url('./../planets/uranus.png');
 	animation: anti-spin 68s linear 0s infinite;
 	margin: -100px 0px 0px -270px;
